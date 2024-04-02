@@ -79,177 +79,170 @@ Em um reino medieval de Valoria, um grande herói terá que enfrentar o terríve
 ## Atributos:
 
  1. ***Gandolf*** - O Mago:
-Pontos de Vida: 80
-Mana: 150
+Pontos de Vida: 150
 Itens: magia
 Descrição: Gandolf é franzino, mas sua magia é poderosa o suficiente para enfrentar até mesmo os guerreiros mais habilidosos.
 
 2. ***Aragon***- O Guerreiro:
-Pontos de Vida: 100
-Energia: 150
-Itens: armadura, espada, machado, escudo 
+Pontos de Vida: 150
+Itens: armadura, espada, escudo 
 Descrição: Aragon é robusto e ágil, com uma força incrível capaz de manejar armas pesadas e escudos com facilidade.
 
 ### Mago
 
 #### ATAQUE
 
+
 1.***Raio Gélido***
-
-
-Mana: 10
-
 
 Dano: 10
 
+Descrição: Você pode disparar um raio capaz de congelar
 
-Descrição: Você pode disparar um raio capaz de congelar.
+
 
 2.***Bola de Fogo***
 
-
-Mana: 20
-
-
 Dano: 20
 
+Descrição: Você pode disparar uma esfera de chamas de 20 cm de diâmetro que explode
 
-Descrição: Você pode disparar uma esfera de chamas de 20 cm de diâmetro que explode.
+
 
 3.***Trovão***
 
-
-Mana: 20
-
-
 Dano 20
-
 
 Descrição: Você pode atirar um raio que cai em cima do seu oponente
 
+
 4.***Tempestade de Gelo***
-
-
-Mana: 30
-
 
 Dano: 20
 
+Descrição: Uma chuva de pedaços finos e afiados de gelo cai sobre a área
 
-Descrição: Uma chuva de pedaços finos e afiados de gelo cai sobre a área.
+
 
  #### DEFESA 
 
-1.***Escudo Mágico***
+ 
+
+1.***Proteção Elemental***
+
+Dano: 8
+
+Descrição: Você invoca uma aura protetora que absorve ou neutraliza danos
 
 
-Mana: 10
+
+2.***Manipulação Temporal***
+
+Dano: 10
+
+Descrição: Controle o tempo para desacelerar ou interromper temporariamente o ataque inimigo
 
 
-Defesa: 16
+
+3.***Ilusões Defensivas***
+
+Dano: 15
+
+Descrição: Criar ilusões complexas para confundir ou desorientar o dragão
 
 
-Descrição: Você pode criar um escudo de energia para proteger por inteiro
 
-2,***Familiar Defesa***
+4.***Teleportação***
 
+Dano: 7
 
-Mana: 15
-
-
-Defesa: 20
+Descrição: Se teleportar instantaneamente para escapar de situações perigosas ou de ataques iminentes
 
 
-Descrição: O dragão Volvagia te protege
-
-3.***Recuperar Mana***
-
-
-Descrição:Recupera 20 de mana, mas perde 10 pontos de vida em troca
 
 ### Guerreiro
 
 #### ATAQUE
 
-1.***Golpe Devastador***
 
+1.***Golpe Devastador***
 
 Energia: 30 
 
-
 Dano: 35
-
 
 Descrição: Ataque corporal de espada
 
+
+
 2.***Matador de Dragão***
-
-
-Energia: 20
-
 
 Dano: 25
 
-
 Descrição: ataque de machado
+
+
 
 3.***Investida Brutal***
 
-
-Energia: 20
-
-
 Dano: 30
-
 
 Descrição: executa uma investida rápida e poderosa em direção ao alvo com espada
 
+
+
 4.***Corte Furioso***
-
-
-Energia: 15
-
 
 Dano: 20
 
-
 Descrição: desfere uma série rápida de golpes de espada
+
+
 
 #### DEFESA 
 
-1.***Postura Defensiva***
+
+1.***Escudo***
+
+Dano: 2
+
+Descrição: Um escudo grande e resistente para bloquear ataques físicos
 
 
-Energia: 15
+
+2.***Grevas*** 
+
+Dano: 5
+
+Descrição: Ativar proteção para as pernas, cobrindo os pés até abaixo dos joelhos
 
 
-Defesa: 20
+
+3.***Elmo*** 
+
+Dano: 10
+
+Descrição: Um elmo robusto para proteger a cabeça contra ataques diretos, como bafo de fogo
 
 
-Descrição: proteção com o escudo
 
-2.***Resistência Inabalável*** 
+4.***Manobras defensivas*** 
 
+Dano: 15
 
-Energia: 10
-
-
-Defesa: 15
-
-
-Descrição:Proteção apenas com armadura
+Descrição: Com técnicas de defesa como esquivas, bloqueios e contra-ataque 
 
 
 
 ## Equipe:
 
-- [Bianca Barreto](https://github.com/https://github.com/BiancalBarreto)
-- [Elis Rodrigues](https://github.com/https://github.com/ElisIrons)
-- [Érica Viera](https://github.com/https://github.com/ericajv)
-- [Emanuelle Cruz](https://github.com/https://github.com/manuscruz)
-- [Ingrid](https://github.com/https://github.com/iingrud)
-- [Rayla Silva](https://github.com/https://github.com/raylasilva)
-- [Rosana Oliveira](https://github.com/https://github.com/SanaOliver)
+- [Bianca Barreto](https://github.com/BiancalBarreto)
+- [Elis Rodrigues](https://github.com/ElisIrons)
+- [Érica Viera](https://github.com/ericajv)
+- [Emanuelle Cruz](https://github.com/manuscruz)
+- [Ingrid](https://github.com/iingrud)
+- [Rayla Silva](https://github.com/raylasilva)
+- [Rosana Oliveira](https://github.com/SanaOliver)
 
 
 
